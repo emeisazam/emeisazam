@@ -1,4 +1,4 @@
-## hi 
+## hi ✿
 
 I work across sound, research, and speculative systems, building tools and experiments around sonic culture, agentic listening, generative audio, cosmotechnics, and decolonial computation from Medellín.
 
