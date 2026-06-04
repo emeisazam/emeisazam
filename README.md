@@ -2,7 +2,7 @@
 
 I work across sound, research, and speculative systems, building tools and experiments around sonic culture, agentic listening, generative audio, cosmotechnics, and decolonial computation from Medellín.
 
-## Public projects
+## Current projects
 
 * **[ORAM](https://github.com/sonicfieldlabs/oram)** — Agentic multi-track looper.
 * **[Phonostack](https://github.com/sonicfieldlabs/phonostack)** — AI-assisted sound design and organizing.
