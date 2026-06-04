@@ -4,15 +4,10 @@ I work across sound, research, and speculative systems, building tools and exper
 
 ## Public projects
 
-### Sonic Field Labs
-
 * **[ORAM](https://github.com/sonicfieldlabs/oram)** — Agentic multi-track looper.
 * **[Phonostack](https://github.com/sonicfieldlabs/phonostack)** — AI-assisted sound design and organizing.
 * **[Algophony](https://github.com/sonicfieldlabs/algophony)** — Research framework towards algorithmic soundscape.
 * **[AKOÚŌ](https://github.com/sonicfieldlabs/akouo)** — Operational ears for agentic workflows.
-
-### aleph::ch’ixi
-
 * **[Anātman](https://github.com/alephchixi/anatman)** — A counter-cybernetic, compassionate SDK.
 * **[Ch’ixi Skills](https://github.com/alephchixi/chixi-skills)** — Agentic AI skills based on Silvia Rivera Cusicanqui’s epistemology
 * **[OpenMonk](https://github.com/alephchixi/openmonk)** — Non-discursive companion for contemplative attention.
