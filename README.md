@@ -12,13 +12,13 @@ I work across sound, research, and speculative systems, building tools and exper
 * **[ORAM](https://github.com/sonicfieldlabs/oram)** — Agentic multi-track looper.
 * **[Phonostack](https://github.com/sonicfieldlabs/phonostack)** — AI-assisted sound design and organizing.
 
-### Agentic philosophical experiments
+### Agentic philosophy
 * **[Anātman](https://github.com/alephchixi/anatman)** — A counter-cybernetic, compassionate SDK.
 * **[Ch’ixi Skills](https://github.com/alephchixi/chixi-skills)** — Agentic AI skills based on Silvia Rivera Cusicanqui’s epistemology
 
-### Generative / sonification works
+### Generative / sonification
 * **[Xynth](https://github.com/alephchixi/xynth)** — Blockchain-based synthesizer for cosmotechnical sonification.
 * **[Templo](https://github.com/alephchixi/templo)** — Browser-based generative audiovisual temple built from user data.
 
-### Hardware experiments
+### Hardware
 * **[fatesClaw](https://github.com/emeisazam/fatesclaw)** — OpenClaw on a Raspberry Pi 4B + Fates hardware stack.
