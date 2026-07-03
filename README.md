@@ -11,7 +11,6 @@ I work across sound, research, and speculative systems, building tools and exper
 
 #### Sonic tools
 * **[ORAM](https://github.com/sonicfieldlabs/oram)** — Agentic multi-track looper.
-* **[Phonostack](https://github.com/sonicfieldlabs/phonostack)** — AI-assisted sound design and organizing.
 
 #### Agentic philosophy
 * **[Anātman](https://github.com/alephchixi/anatman)** — A counter-cybernetic, compassionate SDK.
