@@ -9,7 +9,7 @@ I work across sound, research, and speculative systems, building tools and exper
 * **[Earworm](https://github.com/sonicfieldlabs/earworm)** - Project-agnostic protocol for persistent listening in agentic signal chains.
 * **[Algophony](https://github.com/sonicfieldlabs/algophony)** — Research and framework towards algorithmic soundscape.
 
-#### Sonic tools
+#### Instrument
 * **[ORAM](https://github.com/sonicfieldlabs/oram)** — Agentic multi-track looper.
 
 #### Agentic philosophy
