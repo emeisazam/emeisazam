@@ -1,12 +1,13 @@
 ## hi ✿
 
-I work across sound, research, and speculative systems, building tools and experiments around sonic culture, agentic listening, generative audio, cosmotechnics, and sonic computation. You can know more about me at [emeisaza.com](https://emeisaza.com). I run [Sonic Field](https://sonicfield.org) platform, [aleph::ch'ixi](https://alephchixi.xyz) label and [momoto](https://momoto.wtf) studio.
+I work across sound, research, and speculative systems, building tools and experiments around sonic culture, agentic listening, generative audio, cosmotechnics, and sonic computation. You can know more about me at [emeisaza.com](https://emeisaza.com). I run [Sonic Field](https://sonicfield.org).
 
 ## Current projects
 
 #### The Listening Stack
-* **[Algophony](https://github.com/sonicfieldlabs/algophony)** — Research framework towards algorithmic soundscape.
-* **[AKOÚŌ](https://github.com/sonicfieldlabs/akouo)** — Operational ears for agentic workflows.
+* **[AKOÚŌ](https://github.com/sonicfieldlabs/akouo)** — Operational ears and listening routinc system for agentic workflows.
+* **[Earworm](https://github.com/sonicfieldlabs/earworm)** - Project-agnostic protocol for persistent listening in agentic signal chains.
+* **[Algophony](https://github.com/sonicfieldlabs/algophony)** — Research and framework towards algorithmic soundscape.
 
 #### Sonic tools
 * **[ORAM](https://github.com/sonicfieldlabs/oram)** — Agentic multi-track looper.
