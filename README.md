@@ -1,6 +1,10 @@
 ## hi ✿
 
-I work across sound, research, and speculative systems, building tools and experiments around sonic culture, agentic listening, generative audio, cosmotechnics, and sonic computation. You can know more about me at [emeisaza.com](https://emeisaza.com). I run [Sonic Field](https://sonicfield.org).
+I work across sound, research, and speculative systems, building around critical audio, sonic culture, agentic listening and generative systems. 
+
+I run [Sonic Field](https://sonicfield.org).
+
+You can know more about me at [emeisaza.com](https://emeisaza.com). 
 
 ## Current projects
 
