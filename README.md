@@ -4,7 +4,7 @@ I' eme. I work across sound, research, and speculative systems, building around 
 
 I run [Sonic Field](https://sonicfield.org)
 
-More about me at [emeisaza.com](https://emeisaza.com). 
+More about [me](https://emeisaza.com). 
 
 ## Current projects
 
