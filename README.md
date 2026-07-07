@@ -1,8 +1,8 @@
 ## hi ✿
 
-I work across sound, research, and speculative systems, building around critical audio, sonic culture, agentic listening and generative systems. 
+I' eme. I work across sound, research, and speculative systems, building around experimental audio, sonic culture, agentic listening and algorithmic aurality.
 
-I run [Sonic Field](https://sonicfield.org).
+I run [Sonic Field](https://sonicfield.org)
 
 More about me at [emeisaza.com](https://emeisaza.com). 
 
