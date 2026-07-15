@@ -17,5 +17,5 @@ Sound tools
 * **[fatesClaw](https://github.com/emeisazam/fatesclaw)** — OpenClaw on a Raspberry Pi 4B + Fates hardware stack.
 
 Agentic philosophy
-* * **[Anātman](https://github.com/alephchixi/anatman)** — A counter-cybernetic, compassionate SDK.
+* **[Anātman](https://github.com/alephchixi/anatman)** — A counter-cybernetic, compassionate SDK.
 * **[Ch’ixi Skills](https://github.com/alephchixi/chixi-skills)** — Agentic AI skills based on Silvia Rivera Cusicanqui’s epistemology
